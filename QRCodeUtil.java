@@ -1,4 +1,4 @@
-package com.caissa.operation.common.utils;
+package com.test.common.utils;
 
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.EncodeHintType;
