@@ -1,4 +1,4 @@
-package com.caissa.operation.common.utils;
+package com.test.common.utils;
 
 import com.google.zxing.common.BitMatrix;
 import org.slf4j.Logger;
